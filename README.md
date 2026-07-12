@@ -1,3 +1,3 @@
-## 👾 Pac-Man
+## 🐍 Contribution Snake
 
-<img src="https://github.com/Salty-orig/Salty-orig/blob/output/pacman-contribution-graph.svg">
+![Snake animation](https://github.com/Salty-orig/Salty-orig/blob/output/github-contribution-grid-snake.svg)
